@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/test/tx/gameOfLife/entity/GameMapTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/tx/gameOfLife/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/tx/gameOfLife/entity/GameMap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/tx/gameOfLife/ui/GameOfLifeFrame.java" charset="GBK" />
+  </component>
+</project>
